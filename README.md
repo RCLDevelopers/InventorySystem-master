@@ -76,9 +76,21 @@ MIT
 
 # Resources
 
-Original Sourcecode from CodeFolder - https://codersfolder.com/2018/02/stock-management-system-v2-codeigniter/
 CodeIgniter - Web Framework
 AdminLTE - Theme
 
 # Acknowledgement
 Great Project
+
+### Authors
+
+* **Zangtics Digital** - *Design & Development* - [Zangtics Digital](https://github.com/RCLDevelopers)
+
+<br>
+<br>
+
+## 🚨 Forking this repo (please read!)
+
+_**yes, with attribution**_.
+
+I value keeping my work open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my work without giving me credit. I spent a non-trivial amount of effort building and 

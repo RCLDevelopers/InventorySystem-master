@@ -98,4 +98,4 @@ I value keeping my work open source, but as you all know, _**plagiarism is bad**
 
 ### 
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Zangtics Digital/VB.NET-PROJECT](https://github.com/RCLDevelopers). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Zangtics Digital](https://github.com/RCLDevelopers). Thanks!

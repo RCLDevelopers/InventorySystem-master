@@ -4,9 +4,10 @@ Create an Inventory System using CodeIgniter, MySQL &amp; PHP
 
 # Screenshots
 
-![Login Page](https://github.com/ronknight/InventorySystem/blob/master/assets/images/screenshots/login.PNG)
-![Dashboard](https://github.com/ronknight/InventorySystem/blob/master/assets/images/screenshots/dashboard.PNG)
-![Database](https://github.com/ronknight/InventorySystem/blob/master/assets/images/screenshots/database.PNG)
+
+![Login Page](https://github.com/RCLDevelopers/InventorySystem-master/blob/main/assets/images/screenshots/login.PNG)
+![Dashboard](https://github.com/RCLDevelopers/InventorySystem/blob/master/assets/images/screenshots/dashboard.PNG)
+![Database](https://github.com/RCLDevelopers/InventorySystem/blob/master/assets/images/screenshots/database.PNG)
 
 # System Features
 1. Manage Users

@@ -93,4 +93,8 @@ Great Project
 
 _**yes, with attribution**_.
 
-I value keeping my work open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my work without giving me credit. I spent a non-trivial amount of effort building and 
+I value keeping my work open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my work without giving me credit. I spent a non-trivial amount of effort building and Putting this here.
+
+### 
+
+Yes, you can fork this repo. Please give me proper credit by linking back to [Zangtics Digital/VB.NET-PROJECT](https://github.com/RCLDevelopers). Thanks!
